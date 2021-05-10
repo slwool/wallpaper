@@ -1,3 +1,3 @@
 # wallpaper
 
-# bing每日图床
+# bing每日背景图
